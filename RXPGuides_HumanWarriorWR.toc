@@ -1,0 +1,13 @@
+## Interface: 11503
+## Interface-Classic: 11503
+## Interface-Wrath: 30403
+## Interface-Mainline: 100207
+
+## Title: RestedXP 1-10 Human Warrior WR Speedrun Guide
+## Notes: A fully min-maxed, speedrun-focused RestedXP custom guide for 1-10 Human Warriors in Classic Era.
+## Author: Jules (using world record holder strategies)
+## Version: 1.0.0
+
+## Dependencies: RXPGuides
+
+Guides/Human_Warrior_1-10_Speedrun.lua
