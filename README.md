@@ -4,7 +4,7 @@ Welcome to the ultimate, fully min-maxed **RestedXP (RXP) Custom Guide** and com
 
 Currently, the Human Warrior 1-10 speedrun record hovers around **1 hour and 14 minutes**, while the Horde (Orc/Troll) record sits at **1 hour and 6 minutes**. Because Humans start in Elwynn Forest—which is larger and historically has more walking downtime than Durotar—breaking the world record requires an absolute rethinking of Elwynn's quest structures, weapon upgrades, and routing mechanics.
 
-This repository acts as a **standalone World of Warcraft Addon** that seamlessly integrates with the RestedXP base addon. It contains the official custom guide (`Guides/Human_Warrior_1-10_Speedrun.lua`) and is defined by the table of contents file (`RXPGuides_HumanWarriorWR.toc`).
+This repository is structured as a **native standalone World of Warcraft Addon**. Inside, the folder `RXPGuides_HumanWarriorWR` contains the official custom guide (`Guides/Human_Warrior_1-10_Speedrun.lua`) and is defined by the table of contents file (`RXPGuides_HumanWarriorWR.toc`).
 
 ---
 
@@ -156,19 +156,19 @@ Instantly stops your current action and targets yourself for a bandage.
 
 ## 📥 Standalone Addon Installation & Usage
 
-Because the RestedXP addon handles guides via the standard WoW addon environment, **this guide is packaged as its own standalone World of Warcraft addon**.
+Because the RestedXP addon handles guides via the standard WoW addon environment, **this repository is natively packaged as a standalone WoW Addon folder**.
 
 ### Installation
 1.  Download this repository as a ZIP file.
-2.  Extract the entire contents of the ZIP file.
-3.  Move the extracted folder (`RXPGuides_HumanWarriorWR`) into your World of Warcraft Addons folder:
+2.  Extract the ZIP file.
+3.  Move the **`RXPGuides_HumanWarriorWR` folder** located inside the repository directly into your World of Warcraft Addons folder:
     `World of Warcraft/_classic_era_/Interface/AddOns/`
-4.  Ensure the folder contains `RXPGuides_HumanWarriorWR.toc` and the `Guides/` subdirectory directly inside it.
-5.  Launch or restart World of Warcraft Classic Era.
-6.  Ensure that both **RestedXP Guide** and **RestedXP 1-10 Human Warrior WR Speedrun Guide** are checked in your character's **AddOns** list in-game.
+4.  Launch or restart World of Warcraft Classic Era.
+5.  In the character selection screen, click **AddOns** in the bottom-left corner and ensure both **RestedXP Guide** and **RestedXP 1-10 Human Warrior WR Speedrun Guide** are checked/enabled.
 
 ### Usage
-1.  Open the RestedXP addon menu in-game.
-2.  Click on **Custom Guides** from the guide selection dropdown.
-3.  Select **1-10 Human Warrior WR Speedrun**.
-4.  Follow the precise pathing coordinates, arrows, and optimized steps to claim the world record!
+1.  Log in on your Level 1 Human Warrior.
+2.  Open the RestedXP addon menu in-game.
+3.  Click on **Custom Guides** from the guide selection dropdown.
+4.  Select **1-10 Human Warrior WR Speedrun**.
+5.  Follow the precise pathing coordinates, arrows, and optimized steps to claim the world record!

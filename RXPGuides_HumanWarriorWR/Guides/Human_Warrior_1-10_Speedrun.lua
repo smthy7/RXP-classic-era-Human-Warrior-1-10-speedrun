@@ -67,7 +67,7 @@ step
 step
     #sticky
     #completewith next
-    +Keep Battle Shout buff active at all times during combat! It increases your AP and acts as a minor threat tool if pulling multiple mobs.
+    +Keep Battle Shout buff active at all times during combat! It increases your AP and acts as a minor threat tool if pulling mobs.
     .goto Elwynn Forest,47.4,32.6,60,0
 step
     >> Slay |cRXP_ENEMY_Kobold Workers|r near the Echo Ridge Mine
