@@ -64,7 +64,7 @@ We abuse Classic WoW's Spirit Healer mechanics to completely bypass Elwynn's wor
     *   Run south to Stonefield Farm. Accept **Lost Necklace** (85) and **Princess Must Die!** (88).
     *   Run east to Maclure Farm. Turn in *Lost Necklace* to Billy Maclure. Accept **Pie for Billy** (86).
     *   Slay nearby boars for 4 Boar Meat. Turn it in to Billy, get **Back to Billy** (84).
-    *   Run back to Auntie Bernice on Stonefield Farm. Turn in *Back to Billy*, accept **Goldtooth** (87).
+    *   Run back to Auntie Bernice on Stonefield Farm. Turn in *Back to Billy, accept **Goldtooth** (87).
 6.  **Fargodeep Mine Optimization:**
     *   Enter Fargodeep Mine. Walk into the main shaft to get scout credit for *The Fargodeep Mine*.
     *   Slay Kobolds inside for Candles and Gold Dust (for *Gold Dust Exchange* accepted from Remy "Two Times").
@@ -166,9 +166,11 @@ Because the RestedXP addon handles guides via the standard WoW addon environment
 4.  Launch or restart World of Warcraft Classic Era.
 5.  In the character selection screen, click **AddOns** in the bottom-left corner and ensure both **RestedXP Guide** and **RestedXP 1-10 Human Warrior WR Speedrun Guide** are checked/enabled.
 
-### Usage
-1.  Log in on your Level 1 Human Warrior.
-2.  Open the RestedXP addon menu in-game.
-3.  Click on **Custom Guides** from the guide selection dropdown.
-4.  Select **1-10 Human Warrior WR Speedrun**.
-5.  Follow the precise pathing coordinates, arrows, and optimized steps to claim the world record!
+### Loading & Selecting the Guide in-game
+We have designed the guide to load perfectly under its own dedicated group category to bypass premium or race-specific filters.
+1.  Log in on your character.
+2.  Open the RestedXP addon menu in-game (usually `/rxp` or click the RXP minimap icon).
+3.  Click the dropdown to select guides.
+4.  Look for the group **`1-10 Human Warrior Speedrun`** (it is a dedicated custom category).
+5.  Click and load **`1-10 Elwynn Forest (Human Warrior WR Speedrun)`** (displayed as **`👑 1-10 Human Warrior WR Speedrun 👑`**).
+6.  Follow the precise pathing coordinates, arrows, and optimized steps to claim the world record!

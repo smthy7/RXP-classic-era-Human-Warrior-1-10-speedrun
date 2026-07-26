@@ -2,10 +2,9 @@ RXPGuides.RegisterGuide([[
 #classic
 << Alliance
 #name 1-10 Elwynn Forest (Human Warrior WR Speedrun)
-#displayname 1-10 Human Warrior WR Speedrun
+#displayname 👑 1-10 Human Warrior WR Speedrun 👑
 #version 1
-#group RestedXP Alliance 1-20
-#defaultfor Human Warrior
+#group 1-10 Human Warrior Speedrun
 #next 10-12 Westfall
 
 step
